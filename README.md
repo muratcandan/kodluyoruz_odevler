@@ -1,1 +1,1 @@
-# kodluyoruz_odev1
+# kodluyoruz_odevler
